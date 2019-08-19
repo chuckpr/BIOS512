@@ -94,12 +94,12 @@ Final course grades will be determined using the following [UNC Graduate School
 grading scale](https://handbook.unc.edu/grading.html).  The relative weight of each 
 course component is shown in the Graded Assignments table.
 
-| Description | Numeric Value |
-| --- | ---: |
-| H High Pass: Clear excellence | 93-100 |
-| P Pass: Entirely satisfactory graduate work | 80-92 |
-| L Low Pass: Inadequate graduate work | 0-79 |
-| F Fail | 0-69 |
+| Grade | Description | Numeric Value |
+| --- | --- | ---: |
+| H | High Pass: Clear excellence | 93-100 |
+| P | Pass: Entirely satisfactory graduate work | 80-92 |
+| L | Low Pass: Inadequate graduate work | 0-79 |
+| F | Fail | 0-69 |
 
 Final course grades will be determined using the following UNC [Undergraduate
 School grading system](https://registrar.unc.edu/academic-services/grades/explanation-of-grading-system/).
