@@ -90,12 +90,27 @@ Will contain questions about the capabilities of different software tools and
 questions about the principles of good data science.
 
 # Course Grading Scale(s)
-Final course grades will be determined using the following UNC Graduate School
-grading scale.  The relative weight of each course component is shown in the
-Graded Assignments table.
+Final course grades will be determined using the following [UNC Graduate School
+grading scale](https://handbook.unc.edu/grading.html).  The relative weight of each 
+course component is shown in the Graded Assignments table.
 
-Final course grades will be determined using the following UNC Undergraduate
-School grading system.
+| Description | Numeric Value |
+| --- | ---: |
+| H High Pass: Clear excellence | 93-100 |
+| P Pass: Entirely satisfactory graduate work | 80-92 |
+| L Low Pass: Inadequate graduate work | 0-79 |
+| F Fail | 0-69 |
+
+Final course grades will be determined using the following UNC [Undergraduate
+School grading system](https://registrar.unc.edu/academic-services/grades/explanation-of-grading-system/).
+
+| Grade | Description | Numeric Value |
+| --- | --- | --- |
+| A | Mastery of course content at the highest level of attainment that can reasonably be expected of students at a given stage of development. The A grade  states clearly that the students have shown such outstanding promise in the aspect of the discipline under study that he/she may be strongly encouraged to continue. | 90-100 |
+| B | Strong performance demonstrating a high level of attainment for a student at a given stage of development. The B grade states that the student has shown solid promise in the aspect of the discipline under study. | 80-89 |
+| C | A totally acceptable performance demonstrating an adequate level of attainment for a student at a given stage of development. The C grade states that, while not yet showing unusual promise, the student may continue to study in the discipline with reasonable hope of intellectual development. | 70-79 |
+| D | A marginal performance in the required exercises demonstrating a minimal passing level of attainment. A student has given no evidence of prospective growth in the discipline; an accumulation of D grades should be taken to mean that the student would be well advised not to continue in the academic field.| 60-69 | 
+| F | For whatever reason, an unacceptable performance. The F grade indicates that the student’s performance in the required exercises has revealed almost no understanding of the course content. A grade of F should warrant an advisor’s questioning whether the student may suitably register for further study in the discipline before remedial work is undertaken.| 50-59 |
 
 # Instructor Expectations:
 ## Discussion Forum
