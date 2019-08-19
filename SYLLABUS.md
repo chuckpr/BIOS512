@@ -98,11 +98,24 @@ semester. The group discussion forum will be moderated by the group members unle
 issue is brought to the instructor’s attention by a fellow group member. The course
 discussion forum will be hosted on [Slack](https://join.slack.com/t/bios512/shared_invite/enQtNzMxNzAxNDc5NzE5LThhMGZiZDQzYzUwYzhmNmU4ZTgyNjMxYzg2ZGM1MTQ1ZDYzM2Y2Zjg5M2M3NTQ0YTlkMmIzNTRkMGZmMDQyOTc).
 
-## Email
+## Email/Contact
+The preferred way to contact the instructor is on the course Slack channel. The 
+instructor will typically respond to a message within 24 hours or less if sent Monday
+through Friday. The instructor may respond to weekend message, but it is not required of them. If
+you receive an out of office reply when emailing, it may take longer to receive a reply. The
+instructor will provide advance notice, if possible, when they will be out of the office.
 
 ## Feedback
+All graded assignments will receive written feedback that coincides with the
+assessment rubric. Feedback is meant to be constructive and help the student continue to build
+upon their skills. The types of feedback you may receive are descriptive feedback, evaluative
+feedback, and motivational feedback. Feedback is a tool that you as a learner can use to
+understand the areas that you are succeeding in and what you can do to improve in other areas.
 
 ## Grading
+Assignments will be graded no more than four weeks after the due date. Assignments that build on 
+the next assignment will be graded within one week of the final due
+date. Early submissions will not be graded before the final due date.
 
 ## Syllabus Changes
 The instructor reserves the right to make changes to the syllabus, including
