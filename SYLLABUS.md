@@ -49,7 +49,7 @@ early as possible. For session-by-session course schedule details, please see be
 # Course Assignments and Assessments
 This course will include the following graded assignments that contribute to
 your final grade in the course. For assignment descriptions and assignment
-grading rubrics, please see
+grading rubrics, please see below.
 
 # Map of Competencies to Learning Objectives and Assessment Assignments
 Below you will see the competency you will develop in this course, the learning
