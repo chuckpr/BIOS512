@@ -29,6 +29,7 @@ Email: cpeperanney@agbiome.com
 *TBD*
 
 # Course Website:
+https://github.com/chuckpr/BIOS512
 
 # Class Days, Times, Location:
 Tuesday and Thursday from 11am until 12:15pm.
