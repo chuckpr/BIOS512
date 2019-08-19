@@ -44,12 +44,18 @@ science applications in public health settings.
 # Course-at-a-glance
 The instructor reserves the right to make changes to the syllabus, including
 topics, readings, assignments, and due dates. Any changes will be announced as
-early as possible. For session-by-session course schedule details, please see below,
+early as possible. For session-by-session course schedule details, please see below.
 
 # Course Assignments and Assessments
 This course will include the following graded assignments that contribute to
 your final grade in the course. For assignment descriptions and assignment
 grading rubrics, please see below.
+
+| Assignments | Points/Percentages |
+| --- | ---: |
+| (approximately) Weekly exercises | 75 |
+| Final project/exam | 20 |
+| Participation | 5 |
 
 # Map of Competencies to Learning Objectives and Assessment Assignments
 Below you will see the competency you will develop in this course, the learning
