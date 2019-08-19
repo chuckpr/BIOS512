@@ -15,12 +15,12 @@ science may also find this course useful. There are no pre-requisites beyond
 those required for entry into the MPH program.
 
 # Instructor
-Chuck Pepe-Ranney, PhD
-Visiting Lecturer
-Department of Biostatistics
-3101A McGavran-Greenberg Hall
-Phone: 575-313-0993
-Email: cpeperanney@agbiome.com
+Chuck Pepe-Ranney, PhD  
+Visiting Lecturer  
+Department of Biostatistics  
+3101A McGavran-Greenberg Hall  
+Phone: 575-313-0993  
+Email: cpeperanney@agbiome.com  
 
 # Teaching Assistant
 *TBD*
