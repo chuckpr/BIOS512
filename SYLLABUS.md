@@ -93,6 +93,10 @@ School grading system.
 
 # Instructor Expectations:
 ## Discussion Forum
+The instructor will be an active reader and will occasionally post throughout the
+semester. The group discussion forum will be moderated by the group members unless an
+issue is brought to the instructor’s attention by a fellow group member. The course
+discussion forum will be hosted on [Slack](https://join.slack.com/t/bios512/shared_invite/enQtNzMxNzAxNDc5NzE5LThhMGZiZDQzYzUwYzhmNmU4ZTgyNjMxYzg2ZGM1MTQ1ZDYzM2Y2Zjg5M2M3NTQ0YTlkMmIzNTRkMGZmMDQyOTc).
 
 ## Email
 
