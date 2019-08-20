@@ -35,6 +35,15 @@ https://github.com/chuckpr/BIOS512
 Tuesday and Thursday from 11am until 12:15pm.
 
 # Course Overview
+This course will teach you the skills to build and communicate end-to-end data
+narratives.
+
+We will specifically be focusing on the following techology:
+- [Tidyverse](https://www.tidyverse.org)
+- [Jupyter](https://jupyter.org/)
+- [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/) and [GitHub](https://github.com/)
+- (if time permits...) [scikit-learn](https://scikit-learn.org) and [Plotly](https://plot.ly)
 
 # Course Format
 The course format will include two lectures each week. The lectures will be
@@ -44,7 +53,8 @@ science applications in public health settings.
 # Course-at-a-glance
 The instructor reserves the right to make changes to the syllabus, including
 topics, readings, assignments, and due dates. Any changes will be announced as
-early as possible. For session-by-session course schedule details, please see below.
+early as possible. For session-by-session course schedule details, please see the
+[course website](https://github.com/chuckpr/BIOS512).
 
 # Course Assignments and Assessments
 This course will include the following graded assignments that contribute to
