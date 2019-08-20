@@ -4,17 +4,17 @@ This course will teach you the skills to build and communicate end-to-end data
 narratives.
 
 We will specifically be focusing on the following techology:
-- [Tidyverse]()
-- [Jupyter]()
-- [Docker]()
-- [Git]() and [GitHub]()
-- (if time permits...) [scikit-learn]() and [Plotly]()
+- [Tidyverse](https://www.tidyverse.org)
+- [Jupyter](https://jupyter.org/)
+- [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/) and [GitHub](https://github.com/)
+- (if time permits...) [scikit-learn](https://scikit-learn.org) and [Plotly](https://plot.ly)
 
 ## Asking questions
 Please use the course Slack to ask questions.
 
 ## Syllabus
-You can find the course syllabus here: [syllabus]()
+You can find the course syllabus here: [syllabus](https://github.com/chuckpr/BIOS512/blob/master/SYLLABUS.md)
 
 ## Schedule
 The schedule will be adjusted upon reviewing results of the course survey. Stay
