@@ -1,5 +1,7 @@
 # `Welcome to the BIOS512 repository!`
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512/master)
+
 This course will teach you the skills to build and communicate end-to-end data
 narratives.
 
