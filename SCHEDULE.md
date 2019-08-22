@@ -1,4 +1,4 @@
-|  **Week** | **Topic**       | **Reading** | **Links**   |     |
+|  **Week** | <div style="width: 200px"></div>**Topic**       | **Reading** | **Links**   |     |
 | :-------- | --------------- | ----------- | ----------- | --- |
 |  08/19    | Course syllabus, Jupyter Notebooks |  |  |  |
 |  08/26    | ggplot2 | R For Data Science Ch. 2-3 | https://r4ds.had.co.nz/explore-intro.html |  |
