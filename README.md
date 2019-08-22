@@ -1,9 +1,9 @@
 # `Welcome to the BIOS512 repository!`
 
-Notebook:
+Notebook:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512/master)
 
-Lab:
+Lab:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512/master?urlpath=lab)
 
 This course will teach you the skills to build and communicate end-to-end data
