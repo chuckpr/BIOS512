@@ -4,7 +4,8 @@ ARG NB_USER
 ARG NB_UID
 
 USER root
-COPY in-class-exercises ${HOME}
+COPY in-class-exercises ${HOME}/in-class-exercises
+COPY assignments ${HOME}/assignments
 RUN chown -R ${NB_USER} ${HOME}
 
 USER ${NB_USER}
