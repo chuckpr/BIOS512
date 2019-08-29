@@ -6,6 +6,8 @@ Notebook:
 Lab:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512/master?urlpath=lab)
 
+[Link to NBViewer](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/tree/master/)
+
 This course will teach you the skills to build and communicate end-to-end data
 narratives.
 
