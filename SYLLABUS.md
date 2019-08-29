@@ -64,7 +64,7 @@ grading rubrics, please see below.
 | Assignments | Points/Percentages |
 | --- | ---: |
 | (approximately) Weekly exercises | 75 |
-| Final project/exam | 20 |
+| Final project | 20 |
 | Participation | 5 |
 
 # Map of Competencies to Learning Objectives and Assessment Assignments
