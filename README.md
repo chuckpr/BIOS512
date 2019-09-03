@@ -39,3 +39,5 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/master/
   - [multiple plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/03/03_lecture_multiple_plots.ipynb)
 - lecture 04
   - [a tour of geoms](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/04/04_tour_of_geoms.ipynb)
+- lecture 05
+  - [distributions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/05/05_plotting_distributions.ipynb)
