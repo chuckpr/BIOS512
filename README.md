@@ -25,5 +25,17 @@ Please use the course Slack to ask questions.
 You can find the course syllabus here: [syllabus](https://github.com/chuckpr/BIOS512/blob/master/SYLLABUS.md)
 
 ## Schedule
-The schedule will be adjusted upon reviewing results of the course survey. Stay
-tuned!
+The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/master/SCHEDULE.md). It will contain planned lectures for roughly a month in advance.
+
+## Lectures
+- lecture 01
+  - [introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/01/01-lecture.ipynb)
+- lecture 02
+  - [Jupyter Notebooks](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/02/02_lecture_jupyter.ipynb)
+  - [beginning GGPlot2](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/02/02_lecture_ggplot2.ipynb)
+- lecture 03
+  - [beginning GitHub](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/03/03_lecture_github.ipynb)
+  - [markdown](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/03/03_lecture_markdown.ipynb)
+  - [multiple plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/03/03_lecture_multiple_plots.ipynb)
+- lecture 04
+  - [a tour of geoms](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/04/04_tour_of_geoms.ipynb)
