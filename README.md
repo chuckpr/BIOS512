@@ -41,3 +41,10 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/master/
   - [a tour of geoms](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/04/04_tour_of_geoms.ipynb)
 - lecture 05
   - [distributions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/05/05_plotting_distributions.ipynb)
+- lecture 06
+  - [adjusting plot appearance](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/06/06_adjusting_plot_appearance.ipynb)
+  - [ECDF plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/06/06_ecdf_plots.ipynb)
+- lecture 07
+  - [advanced figures](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/07/07_advanced_figures.ipynb)
+- lecture 08
+  - [dplyr introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/08/08_dplyr_introduction.ipynb)
