@@ -47,7 +47,7 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/master/
 - lecture 07
   - [advanced figures](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/07/07_advanced_figures.ipynb)
 - lecture 08
-  - [dplyr introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/08/08_dplyr_introduction.ipynb)
+  - [dplyR introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/08/08_dplyr_introduction.ipynb)
 - lecture 09
   - [dplyR practice](https://github.com/chuckpr/BIOS512/blob/master/in-class-exercises/09/09_dplyr_practice.ipynb)
 - lecture 10
