@@ -1,3 +1,6 @@
+devtools::install_github("r-lib/vctrs")
+remotes::install_github("r-lib/lifecycle")
+devtools::install_github("tidyverse/tidyr")
 devtools::install_github("thomasp85/patchwork")
 install.packages("ggrepel")
 install.packages("gapminder")

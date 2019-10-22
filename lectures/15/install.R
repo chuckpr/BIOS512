@@ -1,1 +1,1 @@
-install.packages('plotly', 'http://cran.rstudio.com')
+install.packages('plotly', repos='http://cran.rstudio.com')

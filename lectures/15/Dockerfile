@@ -6,3 +6,5 @@ RUN pip install pipenv==2018.11.26 \
 
 COPY install.R ./
 RUN R -f install.R
+
+RUN conda update -y r-tidyverse
