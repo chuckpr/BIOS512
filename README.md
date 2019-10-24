@@ -60,8 +60,8 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/master/
   - [data joins](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/12/12_joins.ipynb)
   - [re-shaping](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/12/12_reshaping_data.ipynb)
 - lecture 13
-  - (Python example)[https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/13/13_python_versus_R.ipynb]
-  - (review)[https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/13/13_review_concepts.ipynb]
+  - [Python example](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/13/13_python_versus_R.ipynb)
+  - [review](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/13/13_review_concepts.ipynb)
 - lecture 14
   - [Plotly introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/14/14_plotly_introduction.ipynb)
   - [Dockerfiles](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/master/lectures/14/14_stepping_through_a_Dockerfile.ipynb)
