@@ -1,3 +1,4 @@
+remotes::install_github("r-lib/rlang")
 devtools::install_github("r-lib/vctrs")
 remotes::install_github("r-lib/lifecycle")
 devtools::install_github("tidyverse/tidyr")
