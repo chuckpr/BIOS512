@@ -1,16 +1,16 @@
-FROM rocker/binder:3.6.0
+FROM jupyter/r-notebook:ad3574d3c5c7
 
-ARG NB_USER
-ARG NB_UID
+# ARG NB_USER
+# ARG NB_UID
 
-RUN pip3 install jupyterlab==1.0.9
+# RUN pip3 install jupyterlab==1.0.9
 
-USER root
+# USER root
 COPY in-class-exercises ${HOME}/in-class-exercises
 COPY assignments ${HOME}/assignments
-RUN chown -R ${NB_USER} ${HOME}
+# RUN chown -R ${NB_USER} ${HOME}
 
-USER ${NB_USER}
+# USER ${NB_USER}
 
 COPY install.R ./
 RUN if [ -f install.R ]; then R -f install.R; fi
