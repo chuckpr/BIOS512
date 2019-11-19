@@ -1,0 +1,3 @@
+FROM jupyter/r-notebook
+
+RUN conda install -c conda-forge r-tidyr
