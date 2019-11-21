@@ -1,7 +1,7 @@
 ---
 title: "Tidy Spatial Data in R - Student Version"
-author: "Sheila Saia & Ashton Drew"
-date: "October 4, 2019"
+author: "Sheila Saia"
+date: "November 21, 2019"
 output:
   word_document: default
   html_document: default
