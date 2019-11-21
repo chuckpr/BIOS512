@@ -9,5 +9,4 @@ RUN R -e "install.packages('here', repos=c('http://cran.rstudio.com'))"
 RUN R -e "install.packages('plotly', repos=c('http://cran.rstudio.com'))"
 RUN R -e "install.packages('ggrepel', repos=c('http://cran.rstudio.com'))"
 
-RUN conda install -y r-sf=0.8_0
-# RUN conda install -y -c conda-forge r-tidyr=1.0.0
+RUN conda install -y -c conda-forge r-sf==0.8_0 r-tidyr=1.0.0
