@@ -14,3 +14,5 @@ USER ${NB_USER}
 
 COPY install.R ./
 RUN if [ -f install.R ]; then R -f install.R; fi
+
+RUN gunzip in-class-exercises/19/data/spatial_data/*gz
