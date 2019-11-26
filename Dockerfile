@@ -11,3 +11,4 @@ RUN conda update conda
 RUN conda install -y r-tidyr==1.0.0 r-ggraph==2.0.0 r-ggrepel==0.8.1
 
 RUN R -e "devtools::install_github('thomasp85/patchwork')"
+RUN R -e "devtools::install_github('hoesler/rwantshue')"
