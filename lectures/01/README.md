@@ -1,5 +1,5 @@
 # Lecture 01
 
-## Assignments (Due 8/27)
-- sign up for the course Slack: [invite link](https://join.slack.com/t/bios512/shared_invite/enQtNzI5MzYwMTc3NTQwLWMwNWJjY2RhZDA5MmMwYTIxNjY2NjBjMjAyYmUzZjUyZjc5ZjE2NTdiMTE3YWQxOTk0MTAwNTk2YjViYjllNWM)
-- fill out the course survey: [Google Form](https://forms.gle/QeeuXt6oKSzKc3Go7)
+## Assignments (please complete by the next lecture)
+- sign up for the course Slack: [invite link](https://join.slack.com/t/bios512fall2020/shared_invite/zt-gtf5cxy8-~fy8ex0s~wAAxXEuzf7EhA)
+- fill out the course survey: [Google Form](https://forms.gle/WqhKSFGQYACksy998)
