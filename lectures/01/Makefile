@@ -10,7 +10,7 @@ run-notebook: run-notebook.sh build-image stop-notebook
 	IMAGE=$(IMAGE) ./$<
 
 get-url:
-	docker exec $(NAME) jupyter notebook list
+	docker exec $(NAME) jupyter notebook list | sed 's/0\.0\.0\.0/localhost/'
 
 stop-notebook:
 	docker stop $(NAME) || echo "Already stopped."
