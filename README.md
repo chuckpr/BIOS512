@@ -8,6 +8,8 @@ Lab:
 
 [Link to NBViewer](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/tree/main/)
 
+[Link to Glossary](https://github.com/chuckpr/BIOS512/blob/main/GLOSSARY.md)
+
 This course will teach you the skills to build and communicate end-to-end data
 narratives.
 
