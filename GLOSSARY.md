@@ -1,3 +1,6 @@
+### `encoding`
+- a mapping of data values to chart properties.
+
 ### `argument`
 - input to a[ `function`](#function).
 ```R
