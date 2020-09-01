@@ -14,7 +14,7 @@ run-lab: run-lab.sh build-image stop-lab
 	IMAGE=$(IMAGE) ./$<
 
 get-url:
-	docker exec $(NAME) jupyter notebook list
+	docker exec $(NAME) jupyter notebook list | sed 's/0\.0\.0\.0/localhost/'
 
 get-url-lab:
 	docker exec $(NAME_LAB) jupyter notebook list
