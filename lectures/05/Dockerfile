@@ -1,8 +1,6 @@
-FROM jupyter/datascience-notebook:2ce7c06a61a1
+FROM jupyter/datascience-notebook:6d42503c684f
 
-COPY Pipfile* ./
-RUN pip install pipenv==2018.11.26 \
-    && pipenv install --system
+RUN conda install -y -c conda-forge rise=5.6.1
 
-# COPY install.R ./
-# RUN R -f install.R
+COPY install.R ./
+RUN R -f install.R
