@@ -35,7 +35,7 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SC
 - lecture 02
   - [Jupyter Notebooks](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/02/02_lecture_jupyter.ipynb)
   - [beginning GGPlot2](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/02/02_lecture_ggplot2.ipynb)
-  - [GitHub/Slakc](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/02/02_lecture_slack_github.ipynb)
+  - [GitHub/Slack](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/02/02_lecture_slack_github.ipynb)
 - lecture 03
   - [beginning GitHub](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/03/03_lecture_github.ipynb)
   - [markdown](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/03/03_lecture_markdown.ipynb)
