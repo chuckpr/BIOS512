@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -ex
+
+R -e 'devtools::install_github("thomasp85/patchwork")'
+R -e 'install.packages("palmerpenguins", repos="https://cran.rstudio.com")'
