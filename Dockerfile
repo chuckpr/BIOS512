@@ -10,3 +10,6 @@ RUN R -f install.R
 COPY in-class-exercises ${HOME}/in-class-exercises
 COPY assignments ${HOME}/assignments
 
+USER root
+RUN fix-permissions ${HOME}
+USER $NB_USER
