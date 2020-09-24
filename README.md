@@ -6,7 +6,8 @@ Notebook:
 Lab:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512/main?urlpath=lab)
 
-[Link to NBViewer](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/tree/main/)
+NBViewer:  
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/tree/main/)
 
 [Link to Glossary](https://github.com/chuckpr/BIOS512/blob/main/GLOSSARY.md)
 
