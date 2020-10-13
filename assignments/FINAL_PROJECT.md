@@ -1,7 +1,7 @@
 # Final project specifications
 
 The purpose of the final project is to demonstrate that you can build a data
-narrative from scratch.  Your project should be reproducible in that all you
+narrative from scratch.  Your project should be reproducible in that all your
 data operations and code for data visualizations is captured and transparent.
 
 ## Possible Data Sources:
