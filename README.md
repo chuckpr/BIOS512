@@ -55,6 +55,7 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SC
 - lecture 08
   - [dplyR introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/08/08_dplyr_introduction.ipynb)
 - lecture 09
+  - [more dplyR](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/09/09_more_dplyr.ipynb)
 - lecture 10
   - [dplyR and data import](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/10/10_more_dplyr.ipynb)
 - lecture 11
