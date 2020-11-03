@@ -6,8 +6,8 @@ guide the reader through a short data-driven story with the data transformation
 and visualization skills you've developed in this class.
 
 The purpose of the final project is to demonstrate that you can build a data
-narrative from scratch.  Your project should be reproducible in that all your
-data operations and code for data visualizations is captured and transparent.
+narrative from scratch.  Your project should be reproducible meaning all your
+code for data operations/visualizations is captured and transparent.
 
 ## Possible Data Sources:
 - [FiveThirtyEight](https://github.com/fivethirtyeight/data)
