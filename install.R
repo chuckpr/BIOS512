@@ -1,3 +1,6 @@
 devtools::install_github("thomasp85/patchwork")
 install.packages("palmerpenguins", repos="https://cran.rstudio.com")
 install.packages("ggrepel", repos="https://cran.rstudio.com")
+install.packages("igraph", repos="https://cran.rstudio.com")
+devtools::install_github('thomasp85/tidygraph', dep = FALSE)
+devtools::install_github('thomasp85/ggraph', dep = FALSE)
