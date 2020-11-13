@@ -4,6 +4,8 @@ USER ${NB_USER}
 
 RUN pip install jupyter-offlinenotebook
 
+RUN conda install -c conda-forge imagemagick
+
 COPY install.R ./
 RUN R -f install.R
 
