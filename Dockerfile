@@ -1,17 +1,15 @@
-FROM jupyter/r-notebook:9b87b1625445
+FROM jupyter/r-notebook:lab-3.1.6
 
 USER ${NB_USER}
 
-RUN pip install jupyter-offlinenotebook
+RUN mamba install -y jupyter-offlinenotebook \
+  && fix-permissions "${CONDA_DIR}" \
+  && fix-permissions "/home/${NB_USER}" \
+  && mamba clean --all -y
 
-RUN conda install -c conda-forge imagemagick
-
-COPY install.R ./
-RUN R -f install.R
+# COPY install.R ./
+# RUN R -f install.R
 
 COPY in-class-exercises ${HOME}/in-class-exercises
 COPY assignments ${HOME}/assignments
 
-USER root
-RUN fix-permissions ${HOME}
-USER $NB_USER
