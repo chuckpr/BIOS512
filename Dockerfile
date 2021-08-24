@@ -13,6 +13,8 @@ RUN mamba install -y jupyter-offlinenotebook \
 COPY in-class-exercises ${HOME}/in-class-exercises
 COPY assignments ${HOME}/assignments
 
+USER root
 RUN chown -R ${NB_USER} in-class-exercises \
   && chwon -R ${NB_USER} ${HOME}/assignments
 
+USER ${NB_USER}
