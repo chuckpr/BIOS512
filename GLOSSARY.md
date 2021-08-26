@@ -18,4 +18,4 @@ print("This will be written to your output.")
 ```
 
 ### `syntax`
-- the *way*, we write code, i.e. the *grammer*.
+- the *way* we write code, i.e. the *grammer*.
