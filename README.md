@@ -1,10 +1,10 @@
 # `Welcome to the BIOS512 repository!`
 
 Notebook:  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512-binder/main?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2Fchuckpr%2FBIOS512&branch=main&app=notebook)
 
 Lab:  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512/main?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512-binder/main?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2Fchuckpr%2FBIOS512&branch=main&app=lab)
 
 NBViewer:  
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/tree/main/)
