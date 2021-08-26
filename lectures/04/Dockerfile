@@ -1,6 +1,6 @@
-FROM jupyter/datascience-notebook:6d42503c684f
+FROM jupyter/r-notebook:lab-3.1.6
 
-RUN conda install -y -c conda-forge rise=5.6.1
-
-COPY install.R ./
-RUN R -f install.R
+RUN mamba install -y -c conda-forge \
+  rise=5.7.1 \
+  r-patchwork=1.1.1 \
+  r-palmerpenguins=0.1.0
