@@ -1,5 +1,5 @@
-FROM jupyter/datascience-notebook:r-4.1.1
+FROM jupyter/r-notebook:lab-3.1.6
 
 RUN mamba install -y -c conda-forge \
-  rise=5.6.1 \
+  rise=5.7.1 \
   r-patchwork=1.1.1
