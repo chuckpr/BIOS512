@@ -44,6 +44,7 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SC
   - [review GGPlot2](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/04/04_review_ggplot2.ipynb)
   - [multiple plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/04/04_lecture_multiple_plots.ipynb)
 - lecture 05
+  - [introducing functions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_introducing_functions.ipynb)
   - [a tour of geoms](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_tour_of_geoms.ipynb)
   - [distributions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_plotting_distributions.ipynb)
 - lecture 06
