@@ -1,8 +1,7 @@
-FROM jupyter/datascience-notebook:2ce7c06a61a1
+FROM jupyter/r-notebook:lab-3.1.6
 
-COPY Pipfile* ./
-RUN pip install pipenv==2018.11.26 \
-    && pipenv install --system
-
-# COPY install.R ./
-# RUN R -f install.R
+RUN mamba install -y -c conda-forge \
+  rise=5.7.1 \
+  r-patchwork=1.1.1 \
+  r-palmerpenguins=0.1.0 \
+  r-ggrepel=0.9.1
