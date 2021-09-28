@@ -51,8 +51,8 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SC
   - [adjusting plot appearance](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/06/06_adjusting_plot_appearance.ipynb)
   - [ECDF plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/06/06_ecdf_plots.ipynb)
 - lecture 07
-  - [advanced figures](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/07/07_advanced_figures.ipynb)
   - [GGPlot2 themes](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/07/07_ggplot2_themes.ipynb)
+  - [GGPlot2 review and advanced usage](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/07/07_ggplot2_review_and_adv_usage.ipynb)
 - lecture 08
   - [dplyR introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/08/08_dplyr_introduction.ipynb)
 - lecture 09
