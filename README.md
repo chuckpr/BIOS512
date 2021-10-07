@@ -19,7 +19,7 @@ We will specifically be focusing on the following techology:
 - [Jupyter](https://jupyter.org/)
 - [Docker](https://www.docker.com/)
 - [Git](https://git-scm.com/) and [GitHub](https://github.com/)
-- (if time permits...) [scikit-learn](https://scikit-learn.org) and [Plotly](https://plot.ly)
+- (if time permits...) [TidyModels](https://scikit-learn.org)
 
 ## Asking questions
 Please use the course Slack to ask questions.
