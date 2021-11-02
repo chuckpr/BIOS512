@@ -17,7 +17,7 @@ get-url:
 	docker exec $(NAME) jupyter notebook list
 
 get-url-lab:
-	docker exec $(NAME_LAB) jupyter notebook list
+	docker exec $(NAME_LAB) jupyter lab list
 
 stop-notebook:
 	docker stop $(NAME) || echo "Already stopped."
