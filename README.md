@@ -63,9 +63,9 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SC
 - lecture 11
   - [factors](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/11/11_factors.ipynb)
 - lecture 12
-  - [data joins](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/12/12_joins.ipynb)
   - [re-shaping](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/12/12_reshaping_data.ipynb)
 - lecture 13
+  - [data joins](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/13/13_joins.ipynb)
   - [Python example](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/13/13_python_versus_R.ipynb)
   - [review](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/13/13_review_concepts.ipynb)
 - lecture 14
