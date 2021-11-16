@@ -1,6 +1,6 @@
 .PHONY: run-notebook get-url build-image
 
-IMAGE    = "14_lecture"
+IMAGE    = "13_lecture"
 NAME     = $(IMAGE)_$(shell id -u)
 NAME_LAB = $(IMAGE)_$(shell id -u)_lab
 
@@ -17,7 +17,7 @@ get-url:
 	docker exec $(NAME) jupyter notebook list
 
 get-url-lab:
-	docker exec $(NAME_LAB) jupyter notebook list
+	docker exec $(NAME_LAB) jupyter lab list
 
 stop-notebook:
 	docker stop $(NAME) || echo "Already stopped."
