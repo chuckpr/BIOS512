@@ -1,6 +1,6 @@
 .PHONY: run-notebook get-url build-image
 
-IMAGE    = "13_lecture"
+IMAGE    = "14_lecture"
 NAME     = $(IMAGE)_$(shell id -u)
 NAME_LAB = $(IMAGE)_$(shell id -u)_lab
 
