@@ -20,7 +20,7 @@ Visiting Lecturer
 Department of Biostatistics  
 3101A McGavran-Greenberg Hall  
 Phone: 575-313-0993  
-Email: cpeperanney@agbiome.com  
+Email: chuckpr@ad.unc.edu
 
 # Teaching Assistant
 *TBD*
