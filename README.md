@@ -35,21 +35,21 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SC
   - [introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/01/01-lecture.ipynb)
 - lecture 02
   - [Jupyter Notebooks](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/02/02_lecture_jupyter.ipynb)
-  - [beginning GGPlot2](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/02/02_lecture_ggplot2.ipynb)
   - [GitHub/Slack](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/02/02_lecture_slack_github.ipynb)
 - lecture 03
   - [beginning GitHub](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/03/03_lecture_github.ipynb)
   - [markdown](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/03/03_lecture_markdown.ipynb)
 - lecture 04
+  - [beginning GGPlot2](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/04/04_lecture_ggplot2_intro.ipynb)
   - [review GGPlot2](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/04/04_review_ggplot2.ipynb)
   - [multiple plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/04/04_lecture_multiple_plots.ipynb)
 - lecture 05
-  - [introducing functions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_introducing_functions.ipynb)
   - [a tour of geoms](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_tour_of_geoms.ipynb)
   - [distributions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_plotting_distributions.ipynb)
+  - [ECDF plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/06/06_ecdf_plots.ipynb)
 - lecture 06
   - [adjusting plot appearance](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/06/06_adjusting_plot_appearance.ipynb)
-  - [ECDF plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/06/06_ecdf_plots.ipynb)
+  - [introducing functions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_introducing_functions.ipynb)
 - lecture 07
   - [GGPlot2 themes](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/07/07_ggplot2_themes.ipynb)
   - [GGPlot2 review and advanced usage](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/07/07_ggplot2_review_and_adv_usage.ipynb)
