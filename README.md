@@ -56,9 +56,10 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SC
 - lecture 08
   - [dplyR introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/08/08_dplyr_introduction.ipynb)
 - lecture 09
-  - [more dplyR and data import/export](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/09/09_more_dplyr.ipynb)
+  - [more dplyR](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/09/09_more_dplyr.ipynb)
+  - [data import/export](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/09/09_file_import_export.ipynb)
+  - [file formats](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/9/9_file_formats.ipynb)
 - lecture 10
-  - [file formats](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/10/10_file_formats.ipynb)
   - [dataframes and tibbles](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/10/10_dataframes_and_tibbles.ipynb)
 - lecture 11
   - [factors](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/11/11_factors.ipynb)
