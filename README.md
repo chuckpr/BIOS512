@@ -27,9 +27,6 @@ Please use the course Slack to ask questions.
 ## Syllabus
 You can find the course syllabus here: [syllabus](https://github.com/chuckpr/BIOS512/blob/main/SYLLABUS.md)
 
-## Schedule
-The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SCHEDULE.md). It will contain planned lectures for roughly a month in advance.
-
 ## Lectures
 - lecture 01
   - [introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/01/01-lecture.ipynb)
