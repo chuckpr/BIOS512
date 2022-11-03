@@ -49,7 +49,6 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SC
   - [ECDF plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/06/06_ecdf_plots.ipynb)
 - lecture 06
   - [adjusting plot appearance](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/06/06_adjusting_plot_appearance.ipynb)
-  - [introducing functions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_introducing_functions.ipynb)
 - lecture 07
   - [GGPlot2 themes](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/07/07_ggplot2_themes.ipynb)
   - [GGPlot2 review and advanced usage](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/07/07_ggplot2_review_and_adv_usage.ipynb)
@@ -58,9 +57,11 @@ The schedule can be found [here](https://github.com/chuckpr/BIOS512/blob/main/SC
 - lecture 09
   - [more dplyR](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/09/09_more_dplyr.ipynb)
   - [data import/export](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/09/09_file_import_export.ipynb)
+  - [spreadsheets](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/09/09_spreadsheets.ipynb)
   - [file formats](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/9/9_file_formats.ipynb)
 - lecture 10
   - [dataframes and tibbles](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/10/10_dataframes_and_tibbles.ipynb)
+  - [introducing functions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/10/10_introducing_functions.ipynb)
 - lecture 11
   - [factors](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/11/11_factors.ipynb)
 - lecture 12
