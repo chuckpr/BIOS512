@@ -9,7 +9,7 @@ Lab:
 NBViewer:  
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/tree/main/)
 
-SageMaker Studio Lab:
+SageMaker Studio Lab:  
 [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/chuckpr/BIOS512/blob/main/lectures/04/04_lecture_ggplot2_intro.ipynb)
 
 [Link to Glossary](https://github.com/chuckpr/BIOS512/blob/main/GLOSSARY.md)
