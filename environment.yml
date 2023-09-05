@@ -6,3 +6,4 @@ channels:
 
 dependencies:
   - r-tidyverse
+  - ipykernel
