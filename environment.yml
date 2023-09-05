@@ -5,5 +5,6 @@ channels:
   - r
 
 dependencies:
+  - r-irkernel
   - r-tidyverse
   - ipykernel
