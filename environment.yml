@@ -7,4 +7,5 @@ channels:
 dependencies:
   - r-irkernel
   - r-tidyverse
-  - ipykernel
+  - r-palmerpenguins
+  - r-patchwork
