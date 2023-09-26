@@ -46,7 +46,7 @@ You can find the course syllabus here: [syllabus](https://github.com/chuckpr/BIO
 - lecture 05
   - [a tour of geoms](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_tour_of_geoms.ipynb)
   - [distributions](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_plotting_distributions.ipynb)
-  - [ECDF plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/06/06_ecdf_plots.ipynb)
+  - [ECDF plots](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/05/05_ecdf_plots.ipynb)
 - lecture 06
   - [adjusting plot appearance](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/06/06_adjusting_plot_appearance.ipynb)
 - lecture 07
