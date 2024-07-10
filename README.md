@@ -31,6 +31,7 @@ Please use the course Slack to ask questions.
 You can find the course syllabus here: [syllabus](https://github.com/chuckpr/BIOS512/blob/main/SYLLABUS.md)
 
 ## Lectures
+### Exploratory data analysis and and visualization
 - lecture 01
   - [introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/01/01-lecture.ipynb)
 - lecture 02
@@ -52,6 +53,8 @@ You can find the course syllabus here: [syllabus](https://github.com/chuckpr/BIO
 - lecture 07
   - [GGPlot2 themes](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/07/07_ggplot2_themes.ipynb)
   - [GGPlot2 review and advanced usage](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/07/07_ggplot2_review_and_adv_usage.ipynb)
+
+### Data wrangling and preparation
 - lecture 08
   - [dplyR introduction](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/blob/main/lectures/08/08_dplyr_introduction.ipynb)
 - lecture 09
