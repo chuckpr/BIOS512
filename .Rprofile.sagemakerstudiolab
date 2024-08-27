@@ -1,0 +1,4 @@
+now = lubridate::now()
+lubridate::force_tz(now, 'UTC')
+
+options(repr.plot.res = 250)
