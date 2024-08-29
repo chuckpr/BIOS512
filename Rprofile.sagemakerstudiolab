@@ -1,4 +1,6 @@
 now = lubridate::now()
 lubridate::force_tz(now, 'UTC')
 
-options(repr.plot.res = 250)
+options(repr.plot.res = 250, repr.plot.width = 4, repr.plot.height = 3)
+
+# do not delete this line
